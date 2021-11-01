@@ -613,7 +613,7 @@ const isImage = (type === 'imageMessage')
         } 
         ////DAFTAR BUTTON BY IKY
       const daftar1 = `Hai kak  ${pushname} ${ucapanWaktu} \n\nSebelum Menggunakan ミケルVerify Terlebih Dahulu Ya `
-       const daftar2 = '```Ketik Tombol Di Bawah Untuk Verify Kak\nUntuk Wa Mod Silahkan .verify\nミケル```'
+       const daftar2 = '```Klik Tombol Di Bawah Untuk Verify Kak\nUntuk Wa Mod Silahkan .verify\nミケル```'
        const daftar3 = [
           {
             buttonId: `!verify`,
@@ -622,7 +622,7 @@ const isImage = (type === 'imageMessage')
             },
             type: 1,
           },]
-          ///////PREMIUM BY IKY
+          ///////PREMIUM BY Kxyudi
           
           
       const prem1 = `Hai kak  ${pushname} ${ucapanWaktu} \n\n Fitur Ini Khusus Member Premium Silahkan Buy Premium Untuk Menggunakan Fitur Ini `
@@ -1026,7 +1026,7 @@ if (args.length < 2) return reply(`Penggunaan ${command} idgroup`)
                break    
                case 'shop':
                reply(`*SELAMAT DATANG DI SHOP*
->>>> *SHOP INI BYE MIKEL*
+>>>> *SHOP INI BY Yudi*
 
 *INI MERUPAKAN PAYMENT/SHOP/SEWA*
 *SILAH KAN HUBUNGI OWNER*
@@ -1037,7 +1037,7 @@ if (args.length < 2) return reply(`Penggunaan ${command} idgroup`)
 
 *NOMOR CREATOR*
 ▼▼▼▼▼`)
-sendKontak(from, `62857721057781`, `${ownerName}`, 'Sibukk!!')
+sendKontak(from, `62881037046507`, `${ownerName}`, 'Sibukk!!')
                await sleep(1000)
                break
                case 'spamcall':{
@@ -1179,8 +1179,8 @@ if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quo
 ${ucapanWaktu} Kak ${pushname} ☺️
 
   ${botName}
- 𝙅𝘼𝙉𝙂𝘼𝙉 𝙇𝙐𝙋𝘼 𝙎𝙐𝘽𝙍𝙀𝙆
- 𝘾𝙃𝘼𝙉𝙀𝙇 𝙎𝘼𝙔𝘼 𝙔𝘼
+ JANGAN LUPA FOLLOW IG
+ OWNER YA yudipermana.1
   
 
 「 *KALENDER* 」
@@ -1236,7 +1236,7 @@ ${ucapanWaktu} Kak ${pushname} ☺️
 
  ׄ✑⋆ ⃝⃕⬡⋆ ⃝⃕⬡⋆ ⃝⃕⬡⋆ ⃝⃕⬡  ⃝⃕⋆⬡ ⃝⃕ׄ
 
-Made With ❤️ in Semarang,Indonesia
+Made With ❤️ in Indonesia
 
 ׄ✑⋆ ⃝⃕⋆⬡  ⃝⃕⋆⬡  ⃝⃕⋆⬡⋆ ⃝⃕⋆⬡  ⃝⃕⋆⬡ ⃝⃕ׄ
 *Bot Error?* Langsung Lapor
@@ -1260,7 +1260,7 @@ case 'lock':
  ikymemek = {
   "key": {
     "fromMe": false,
-    participant: `62857721057781@s.whatsapp.net`, ...(from ? { remoteJid: "status@broadcast" } : {})
+    participant: `62881037046507@s.whatsapp.net`, ...(from ? { remoteJid: "status@broadcast" } : {})
   },
   "message": {
     "viewOnceMessage": {
@@ -2106,7 +2106,7 @@ break
               ikyy.relayWAMessage(prep)
         
                     break
-//maker Menu By bian!!
+//maker Menu By Yudi!!
 case 'dropwater':
 case 'blueneon':
 case 'flowertext':
@@ -2429,7 +2429,7 @@ case "mode":
 
 ׄ✑⋆ ⃝⃕⋆⬡  ⃝⃕⋆⬡  ⃝⃕⋆⬡⋆ ⃝⃕⋆⬡  ⃝⃕⋆⬡ ⃝⃕ׄ
 
-Made With ❤️ in Semarang,Indonesia
+Made With ❤️ in Indonesia
 
 ׄ✑⋆ ⃝⃕⋆⬡  ⃝⃕⋆⬡  ⃝⃕⋆⬡⋆ ⃝⃕⋆⬡  ⃝⃕⋆⬡ ⃝⃕ׄ
 *Bot Error?* Langsung Lapor
@@ -2445,7 +2445,7 @@ Made With ❤️ in Semarang,Indonesia
                contentText: `${menu}`,
                footerText:  `   
 
- XINN BOT☕︎`, imageMessage: imageMsg,
+ Nassa BOT☕︎`, imageMessage: imageMsg,
                buttons: buttons,
                headerType: 1
 }
@@ -2493,7 +2493,7 @@ Made With ❤️ in Semarang,Indonesia
                contentText: `${menu}`,
                footerText:  `   
 
- MIKEL BOT☕︎`, imageMessage: imageMsg,
+ Nassa BOT☕︎`, imageMessage: imageMsg,
                buttons: buttons,
                headerType: 1
 }
@@ -2535,7 +2535,7 @@ Made With ❤️ in Semarang,Indonesia
 
  ׄ✑⋆ ⃝⃕⬡⋆ ⃝⃕⬡⋆ ⃝⃕⬡⋆ ⃝⃕⬡  ⃝⃕⋆⬡ ⃝⃕ׄ
 
-Made With ❤️ in Semarang,Indonesia
+Made With ❤️ in Indonesia
 
 ׄ✑⋆ ⃝⃕⋆⬡  ⃝⃕⋆⬡  ⃝⃕⋆⬡⋆ ⃝⃕⋆⬡  ⃝⃕⋆⬡ ⃝⃕ׄ
 *Bot Error?* Langsung Lapor
@@ -2551,7 +2551,7 @@ Made With ❤️ in Semarang,Indonesia
                contentText: `${menu}`,
                footerText:  `   
 
- XINN BOT☕︎`, imageMessage: imageMsg,
+ Nassa BOT☕︎`, imageMessage: imageMsg,
                buttons: buttons,
                headerType: 1
 }
@@ -2610,7 +2610,7 @@ Made With ❤️ in Semarang,Indonesia
                contentText: `${menu}`,
                footerText:  `   
 
- MIKEL BOT☕︎`, imageMessage: imageMsg,
+ Nassa BOT☕︎`, imageMessage: imageMsg,
                buttons: buttons,
                headerType: 1
 }
@@ -2684,7 +2684,7 @@ Made With ❤️ in Semarang,Indonesia
                footerText:  `   
 
 
- XINN BOT☕︎`, imageMessage: imageMsg,
+ Nassa BOT☕︎`, imageMessage: imageMsg,
                buttons: buttons,
                headerType: 1
 }
@@ -2761,7 +2761,7 @@ Made With ❤️ in Semarang,Indonesia
  𝔍????𝔤𝔞𝔫 𝔭𝔢𝔯𝔫𝔞𝔥 𝔪𝔢𝔫𝔠𝔦𝔫𝔱𝔞𝔦 𝔰𝔢𝔰𝔢𝔬𝔯??𝔫𝔤 
   𝔶𝔞𝔫𝔤 𝔪𝔞𝔰𝔦𝔥 𝔪𝔢𝔫𝔠𝔦𝔫𝔱𝔞𝔦 𝔪𝔞𝔰𝔞𝔩𝔞𝔩𝔲𝔫𝔶𝔞
 
- XINN BOT☕︎`, imageMessage: imageMsg,
+ Nassa BOT☕︎`, imageMessage: imageMsg,
                buttons: buttons,
                headerType: 1
 }
@@ -2825,13 +2825,13 @@ Made With ❤️ in Semarang,Indonesia
 
  ׄ✑⋆ ⃝⃕⋆⬡  ⃝⃕⋆⬡  ⃝⃕⋆⬡⋆ ⃝⃕⋆⬡  ⃝⃕⋆⬡ ⃝⃕ׄ
 
-Made With ❤️ in Semarang,Indonesia
+Made With ❤️ in Indonesia
 
 ׄ✑⋆ ⃝⃕⋆⬡  ⃝⃕⋆⬡  ⃝⃕⋆⬡⋆ ⃝⃕⋆⬡  ⃝⃕⋆⬡ ⃝⃕ׄ
 *Bot Error?* Langsung Lapor
 *${prefix}bugreport* reason
 
- MIKEL BOT☕︎`, imageMessage: imageMsg,
+ Nassa BOT☕︎`, imageMessage: imageMsg,
                buttons: buttons,
                headerType: 1
 }
@@ -3019,7 +3019,7 @@ Made With ❤️ in Semarang,Indonesia
 
  ׄ✑⋆ ⃝⃕⬡⋆ ⃝⃕⬡⋆ ⃝⃕⬡⋆ ⃝⃕⬡  ⃝⃕⋆⬡ ⃝⃕ׄ
 
-Made With ❤️ in Semarang,Indonesia
+Made With ❤️ in Indonesia
 
 ׄ✑⋆ ⃝⃕⋆⬡  ⃝⃕⋆⬡  ⃝⃕⋆⬡⋆ ⃝⃕⋆⬡  ⃝⃕⋆⬡ ⃝⃕ׄ
 *Bot Error?* Langsung Lapor
@@ -3039,7 +3039,7 @@ Made With ❤️ in Semarang,Indonesia
 
  
 
- XINN BOT☕︎`, imageMessage: imageMsg,
+ Nassa BOT☕︎`, imageMessage: imageMsg,
                buttons: buttons,
                headerType: 1
 }
@@ -4324,7 +4324,7 @@ const serialUser = createSerial(18)
 *🌹 Serial:* ${serialUser}
 *🌹 Total:* ${_registered.length} Pengguna
 
-*「 XINN BOT 」*`
+*「 Nassa BOT 」*`
          ikyads = await getBuffer(`http://hadi-api.herokuapp.com/api/card/verify?nama=${encodeURI(pushname)}&member=${_registered.length}&seri=${serialUser}&pp=${ppimg}&bg=https://bit.ly/walpamikel`)
              buttons = [{buttonId: `!menu`,buttonText:{displayText: `🏷️MENU`},type:1}]
               imageMsg = (await ikyy.prepareMessageMedia(ikyads, "imageMessage", { thumbnail: ikyads, })).imageMessage
@@ -4481,22 +4481,22 @@ case 'sfire':
 ┃⬡ SEWA 2K/MINGGU
 ┃⬡ SEWA 5K/BLN
 ┃⬡ SEWA PERMANEN 10K
-┗━━⬣
+┗━━⬣ ON 24 JAM
 
 ┏━━⬣ PRICE LIST 2
-┃⬡ JADI BOT 15K/BLN
+┃⬡ JADI BOT Free/1MINGGU
 ┃⬡ JADI BOT + OWNER 35K
 ┃⬡ BUAT BELI APIKEY!
-┗━━⬣
+┗━━⬣ ON 24 JAM
 
 ┏━━⬣ MINAT? PM
 ┃⬡ *PUNYA MATAKAN? LIHAT HARGA!*
 ┃⬡ ==============
-┃⬡ wa.me/6289673723168
+┃⬡ wa.me/62881037046507
 ┃⬡ ==============
 ┃⬡ https://wa.me/message/SZE3KZSLIDIMF1
 ┃⬡ ==============
-┃⬡ Ig @PEBIAN_STORE
+┃⬡ Ig @yudipermana.1
 ┃⬡ @Rava.Reall
 ┃⬡ Yt  BIAN66
 ┗━━⬣
@@ -4527,7 +4527,7 @@ SILAHKAN PILIH ANTARA TRUTH OR DARE
             buff = await getBuffer(gopeynya)
             teksnya = `
 ┏━━⬣ PREMIUM!
-┃⬡ 1 MINGGU 10K
+┃⬡ 1 MINGGU Free
 ┃⬡ 1 BULAN 15K
 ┃⬡ PERMANEN 50K
 ┗━━⬣
@@ -4537,7 +4537,7 @@ KARENA BISA FITUR JOIN!🤤
 
 ┏━━⬣ MINAT? PM
 ┃⬡ wa.me/62857721057781
-┃⬡ Ig @PEBIAN_STORE
+┃⬡ Ig @yudipermana.1
 ┃⬡ Yt  BIAN66
 ┗━━⬣
 `
@@ -4554,7 +4554,7 @@ KARENA BISA FITUR JOIN!🤤
             buff = await getBuffer(gopeynya)
             teksnya = `
 ┏━━⬣ PAYMENT!
-┃⬡ GOJEK 
+┃⬡ GOJEK / Dana
 ┃⬡ QRIS ALL PAYMENT +1K
 ┗━━⬣
 `
